@@ -69,7 +69,7 @@ function setBoard() {
         let labelIndex = labels.indexOf(label);
         leds.forEach((led, index) => {
             if (led) {
-                if (labelIndex == index && conf >= 95) {
+                if (labelIndex == index && conf >= 50) {
                     led.on();
                 } else {
                     led.off();
