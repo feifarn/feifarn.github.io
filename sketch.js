@@ -41,7 +41,7 @@ function draw() {
     background(0);
     image(flippedVideo, 0, 0);
     fill(255);
-    textSize(16);
+    textSize(24);
     textAlign(CENTER);
     text(`辨識結果: ${label} (${conf} %)`, width / 2, height - 4);
     setBoard();
