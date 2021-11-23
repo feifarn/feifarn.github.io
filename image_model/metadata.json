@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.4","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2021-11-19T11:15:49.019Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["未配戴口罩","有配戴口罩","其他"],"imageSize":224}
